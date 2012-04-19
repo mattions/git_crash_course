@@ -68,3 +68,11 @@ Making your life easier
 
 - Add colors to your git output: ```git config color.ui true```
 - Do know in which branch are you: https://gist.github.com/2051095
+
+
+
+
+Testing a new insertion..
+
+
+
