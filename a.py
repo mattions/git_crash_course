@@ -1,5 +1,5 @@
 def hello():
 
-    print "Goodbye cruel life!!!"
+    print "Hello world!"
     
 hello()
